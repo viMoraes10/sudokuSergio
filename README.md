@@ -1,4 +1,5 @@
-sudokuSergio
+SUDOKU Trabalho Sergio
+
 Este projeto é uma aplicação de resolução de Sudoku desenvolvida em TypeScript como parte de um trabalho acadêmico para a disciplina do professor Sérgio. A solução utiliza um algoritmo guloso para preencher o tabuleiro de forma eficiente, priorizando decisões locais que parecem melhores no momento.
 
 ✨ Tecnologias Utilizadas
